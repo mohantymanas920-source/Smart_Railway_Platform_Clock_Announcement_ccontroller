@@ -1,0 +1,9 @@
+.\train_display.o: train_display.c
+.\train_display.o: delay.h
+.\train_display.o: types.h
+.\train_display.o: lcd.h
+.\train_display.o: types.h
+.\train_display.o: lcd_defines.h
+.\train_display.o: train_display.h
+.\train_display.o: types.h
+.\train_display.o: buzzer.h
