@@ -1,0 +1,2 @@
+# Smart_Railway_Platform_Clock_Announcement_ccontroller
+Smart Railway Platform Clock and Announcement Controller Using LPC2148
