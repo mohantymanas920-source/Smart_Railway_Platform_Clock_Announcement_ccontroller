@@ -1,0 +1,15 @@
+# Keil generated files
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.elf
+*.map
+*.lst
+*.bak
+
+# Debug and build folders
+Listings/
+Objects/
+Debug/
